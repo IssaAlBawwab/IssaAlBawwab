@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @IssaAlBawwab
 - 👀 I’m interested in MLOps and Data Engineering
-- 🌱 I’m currently learning Data Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on any interesting data science projects.
 
 
